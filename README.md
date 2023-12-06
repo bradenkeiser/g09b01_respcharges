@@ -1,6 +1,6 @@
 # RESP Charge Generation for Ligand in Gaussian 09 Rev B.01
 
-The failure of Gaussion 09 B.01 for genreating RESP/partial charges for ligands following MD simulation ligand parameterization with Amber is
+The failure of Gaussion 09 B.01 for generating RESP/partial charges for ligands following MD simulation ligand parameterization with Amber is
 well documented. There exists several online scripts that purport to overcome this issue; however, these solutions failed to work in my testing.
 In addition, I wanted to create an automatic and modular script with implementation into MD workflows. 
 
